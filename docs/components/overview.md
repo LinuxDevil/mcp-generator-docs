@@ -493,9 +493,7 @@ Components can communicate through:
 
 ## Next Steps
 
-- **[Tool Development](./tools.md)** - Deep dive into tool creation
-- **[Resource Management](./resources.md)** - Advanced resource patterns
-- **[Prompt Engineering](./prompts.md)** - Effective prompt design
-- **[Service Architecture](./services.md)** - Building robust services
-- **[Transport Development](./transports.md)** - Custom transport protocols
-- **[Utility Libraries](./utils.md)** - Reusable utility patterns
+- **[API Reference](../api/overview.md)** - Complete technical documentation
+- **[CLI Commands](../cli-commands.md)** - Component management commands
+- **[Examples](../examples.md)** - Real-world component implementations
+- **[GitHub Discussions](https://github.com/LinuxDevil/Create-MCP/discussions)** - Community support and patterns

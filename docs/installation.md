@@ -1,3 +1,10 @@
+---
+title: Installation Guide - MCP Server Generator
+description: Complete installation guide for MCP Server Generator. Learn how to install globally, use npx, and get started with generating Model Context Protocol servers.
+keywords: [MCP Server Generator installation, npm install, npx, Model Context Protocol, MCP server, CLI installation, Node.js, TypeScript]
+image: /mcp-server-generator_wordmark_light.png
+---
+
 # Installation
 
 Get started with MCP Server Generator quickly and easily.
@@ -250,5 +257,5 @@ Once installed, learn how to:
 
 - **[Use CLI Commands](./cli-commands.md)** - Master all available commands
 - **[Add Components](./components/overview.md)** - Extend your projects
-- **[Configure Projects](./configuration.md)** - Customize your setup
-- **[Deploy Applications](./deployment.md)** - Go to production
+- **[View Examples](./examples.md)** - Real-world use cases and patterns
+- **[API Reference](./api/overview.md)** - Technical documentation

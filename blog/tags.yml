@@ -1,19 +1,34 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+release:
+  label: Release
+  permalink: /release
+  description: Product releases and announcements
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+features:
+  label: Features
+  permalink: /features
+  description: New features and capabilities
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+components:
+  label: Components
+  permalink: /components
+  description: Component development and extension
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+MCP:
+  label: MCP
+  permalink: /mcp
+  description: Model Context Protocol related content
+
+"Model Context Protocol":
+  label: Model Context Protocol
+  permalink: /model-context-protocol
+  description: Technical content about the Model Context Protocol
+
+TypeScript:
+  label: TypeScript
+  permalink: /typescript
+  description: TypeScript development and best practices
+
+CLI:
+  label: CLI
+  permalink: /cli
+  description: Command-line interface and tools

@@ -582,6 +582,6 @@ try {
 ## Next Steps
 
 - **[Component Development](./components/overview.md)** - Deep dive into component creation
-- **[Configuration](./configuration.md)** - Advanced configuration options
-- **[Testing Guide](./testing.md)** - Comprehensive testing strategies
-- **[Deployment](./deployment.md)** - Production deployment guides
+- **[CLI Commands](./cli-commands.md)** - Complete command reference
+- **[API Reference](./api/overview.md)** - Technical documentation
+- **[GitHub Discussions](https://github.com/LinuxDevil/Create-MCP/discussions)** - Community support and advanced topics

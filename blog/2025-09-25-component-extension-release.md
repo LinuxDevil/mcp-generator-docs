@@ -1,8 +1,11 @@
 ---
 slug: component-extension-release
 title: 🚀 Component Extension System Released
+description: Announcing the release of the powerful Component Extension System for MCP Server Generator - transform your tool from a simple generator into a comprehensive development platform for Model Context Protocol servers.
 authors: [mcp-team]
-tags: [release, features, components]
+tags: [release, features, components, MCP, Model Context Protocol, TypeScript, CLI]
+keywords: [MCP Server Generator, component extension, Model Context Protocol, MCP, TypeScript, CLI tool, dynamic components, server generation, development platform]
+image: /mcp-server-generator_wordmark_light.png
 ---
 
 # 🚀 Component Extension System Released
@@ -183,10 +186,10 @@ npm run inspector
 ## 🎓 Learning Resources
 
 ### Updated Documentation
-- **[Component Overview](../docs/components/overview.md)** - Complete guide to components
-- **[CLI Commands](../docs/cli-commands.md)** - Full command reference
-- **[Examples](../docs/examples.md)** - Real-world use cases
-- **[API Reference](../docs/api/overview.md)** - Technical documentation
+- **[Component Overview](/docs/components/overview)** - Complete guide to components
+- **[CLI Commands](/docs/cli-commands)** - Full command reference
+- **[Examples](/docs/examples)** - Real-world use cases
+- **[API Reference](/docs/api/overview)** - Technical documentation
 
 ### Interactive Examples
 Try the component system with these examples:
@@ -233,7 +236,7 @@ npx mcp-server-generator my-project
 npx mcp-server-generator add tool my-awesome-tool
 ```
 
-Check out our **[comprehensive documentation](../docs/intro.md)** for detailed guides and examples.
+Check out our **[comprehensive documentation](/docs/intro)** for detailed guides and examples.
 
 ## 🙏 Community
 

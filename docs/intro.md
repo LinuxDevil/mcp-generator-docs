@@ -1,3 +1,10 @@
+---
+title: Getting Started - MCP Server Generator Documentation
+description: Learn how to generate and extend production-ready Model Context Protocol (MCP) servers with comprehensive tooling, TypeScript support, and modern development features.
+keywords: [MCP Server Generator, getting started, Model Context Protocol, MCP, TypeScript, CLI tool, development tools, production ready, server generation]
+image: /mcp-server-generator_wordmark_light.png
+---
+
 # Getting Started
 
 Welcome to **MCP Server Generator** - the most comprehensive tool for generating and extending production-ready Model Context Protocol (MCP) servers!

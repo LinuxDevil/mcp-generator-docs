@@ -46,10 +46,13 @@ const FeatureList: FeatureItem[] = [
 ];
 
 function Feature({title, Svg, description}: FeatureItem) {
+  // Generate accessible alt text based on the title
+  const altText = `Illustration for ${title.replace(/[🚀➕🏗️]/g, '').trim()}`;
+  
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <Svg className={styles.featureSvg} role="img" aria-label={altText} />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
