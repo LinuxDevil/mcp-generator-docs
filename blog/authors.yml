@@ -1,0 +1,8 @@
+mcp-team:
+  name: MCP Server Generator Team
+  title: MCP Server Generator Development Team
+  url: https://github.com/LinuxDevil/Create-MCP
+  image_url: https://github.com/LinuxDevil.png
+  page: true
+  socials:
+    github: LinuxDevil
