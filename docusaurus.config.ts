@@ -15,7 +15,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://mcp-server-generator.dev',
+  url: 'https://mcp-server-generator.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -106,7 +106,7 @@ const config: Config = {
         '@type': 'SoftwareApplication',
         name: 'MCP Server Generator',
         description: 'Generate and extend production-ready Model Context Protocol (MCP) servers with comprehensive tooling, TypeScript support, and modern development features.',
-        url: 'https://mcp-server-generator.dev',
+        url: 'https://mcp-server-generator.com',
         applicationCategory: 'DeveloperApplication',
         operatingSystem: 'Cross-platform',
         programmingLanguage: 'TypeScript',
@@ -118,10 +118,10 @@ const config: Config = {
         publisher: {
           '@type': 'Organization',
           name: 'MCP Server Generator',
-          url: 'https://mcp-server-generator.dev',
+          url: 'https://mcp-server-generator.com',
           logo: {
             '@type': 'ImageObject',
-            url: 'https://mcp-server-generator.dev/mcp-server-generator_icon_light.png'
+            url: 'https://mcp-server-generator.com/mcp-server-generator_icon_light.png'
           }
         },
         downloadUrl: 'https://www.npmjs.com/package/mcp-server-generator',
@@ -151,15 +151,15 @@ const config: Config = {
       {property: 'og:type', content: 'website'},
       {property: 'og:title', content: 'MCP Server Generator - Production-Ready Model Context Protocol Servers'},
       {property: 'og:description', content: 'Generate and extend production-ready Model Context Protocol (MCP) servers with comprehensive tooling, TypeScript support, and modern development features.'},
-      {property: 'og:image', content: 'https://mcp-server-generator.dev/mcp-server-generator_wordmark_light.png'},
-      {property: 'og:url', content: 'https://mcp-server-generator.dev'},
+      {property: 'og:image', content: 'https://mcp-server-generator.com/mcp-server-generator_wordmark_light.png'},
+      {property: 'og:url', content: 'https://mcp-server-generator.com'},
       {property: 'og:site_name', content: 'MCP Server Generator'},
       
       // Twitter Cards
       {name: 'twitter:card', content: 'summary_large_image'},
       {name: 'twitter:title', content: 'MCP Server Generator - Production-Ready MCP Servers'},
       {name: 'twitter:description', content: 'Generate and extend production-ready Model Context Protocol servers with comprehensive tooling and TypeScript support.'},
-      {name: 'twitter:image', content: 'https://mcp-server-generator.dev/mcp-server-generator_wordmark_light.png'},
+      {name: 'twitter:image', content: 'https://mcp-server-generator.com/mcp-server-generator_wordmark_light.png'},
       
       // Additional SEO
       {name: 'application-name', content: 'MCP Server Generator'},

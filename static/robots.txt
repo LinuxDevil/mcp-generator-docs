@@ -5,7 +5,7 @@ Allow: /
 Disallow: 
 
 # Sitemap location
-Sitemap: https://mcp-server-generator.dev/sitemap.xml
+Sitemap: https://mcp-server-generator.com/sitemap.xml
 
 # Crawl-delay (optional - 1 second delay between requests)
 Crawl-delay: 1
