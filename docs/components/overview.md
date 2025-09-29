@@ -495,5 +495,5 @@ Components can communicate through:
 
 - **[API Reference](../api/overview.md)** - Complete technical documentation
 - **[CLI Commands](../cli-commands.md)** - Component management commands
-- **[Examples](../examples.md)** - Real-world component implementations
+- **[Component Tutorials](../tutorials-and-examples.md)** - Build components step-by-step
 - **[GitHub Discussions](https://github.com/LinuxDevil/Create-MCP/discussions)** - Community support and patterns

@@ -18,13 +18,51 @@ const sidebars: SidebarsConfig = {
     'cli-commands',
     {
       type: 'category',
+      label: 'Tutorials & Examples',
+      collapsed: false,
+      items: [
+        'tutorials-and-examples',
+        {
+          type: 'category',
+          label: '🟢 Beginner Tutorials',
+          collapsed: false,
+          items: [
+            'tutorial-builds/task-manager-mcp',
+            'tutorial-builds/note-taking-mcp',
+          ],
+        },
+        {
+          type: 'category',
+          label: '🟡 Intermediate Tutorials',
+          collapsed: false,
+          items: [
+            'tutorial-builds/weather-api-mcp',
+            'tutorial-basics/create-code-review-mcp',
+            'tutorial-builds/file-organizer-mcp',
+          ],
+        },
+        {
+          type: 'category',
+          label: '🔴 Advanced Tutorials',
+          collapsed: true,
+          items: [
+            'tutorial-builds/git-helper-mcp',
+          ],
+        },
+      ],
+    },
+    {
+      type: 'category',
       label: 'Components',
       collapsed: false,
       items: [
         'components/overview',
       ],
     },
-    'examples',
+    'project-structure',
+    'testing-debugging',
+    'integrations',
+    'faq',
     {
       type: 'category',
       label: 'API Reference',

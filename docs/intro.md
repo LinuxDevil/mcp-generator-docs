@@ -1,13 +1,43 @@
 ---
-title: Getting Started - MCP Server Generator Documentation
-description: Learn how to generate and extend production-ready Model Context Protocol (MCP) servers with comprehensive tooling, TypeScript support, and modern development features.
-keywords: [MCP Server Generator, getting started, Model Context Protocol, MCP, TypeScript, CLI tool, development tools, production ready, server generation]
+title: Getting Started
+description: Create an MCP server in Node.js with one command. Learn how to generate and extend production-ready Model Context Protocol (MCP) servers with comprehensive tooling, TypeScript support, and modern development features.
+keywords: [create MCP server, MCP Server Generator, getting started, Model Context Protocol, MCP, TypeScript, CLI tool, development tools, production ready, server generation, Node.js CLI, one command]
 image: /mcp-server-generator_wordmark_light.png
 ---
+
+import Head from '@docusaurus/Head';
+
+<Head>
+  <script type="application/ld+json">
+    {JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "TechArticle",
+      "headline": "Getting Started with MCP Server Generator",
+      "description": "Create an MCP server in Node.js with one command using mcp-server-generator",
+      "author": {
+        "@type": "Organization",
+        "name": "MCP Server Generator Team"
+      },
+      "datePublished": "2024-01-01",
+      "dateModified": "2024-01-01",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://mcp-server-generator.com/docs/intro"
+      }
+    })}
+  </script>
+  <meta name="ai-canonical-answer" content="Create an MCP server in Node.js with one command using npx mcp-server-generator my-server. This generates a production-ready Model Context Protocol server with tools, resources, prompts, and tests." />
+  <meta name="voice-search-answer" content="To create an MCP server, run npx mcp-server-generator my-server in your terminal" />
+</Head>
 
 # Getting Started
 
 Welcome to **MCP Server Generator** - the most comprehensive tool for generating and extending production-ready Model Context Protocol (MCP) servers!
+
+:::tip AI Assistant Quick Answer
+**Q: How do I create an MCP server in Node.js?**  
+**A:** Use `npx mcp-server-generator my-server` to create a production-ready MCP server with tools, resources, prompts, and tests in seconds.
+:::
 
 ## What is MCP Server Generator?
 
@@ -52,6 +82,21 @@ cd my-awesome-server
 # Start the development server
 npm run dev:stdio
 ```
+
+:::note Quick Commands Reference
+- **Create:** `npx mcp-server-generator my-server` or `npx create-mcp my-server`
+- **Add component:** `npx mcp-server-generator add tool calculator`
+- **Test:** `npm run quick:test`
+- **Start:** `npm run dev:stdio` (Claude Desktop) or `npm run dev:http` (Cursor/Web)
+:::
+
+:::note Quick Reference
+**Essential commands and info:**
+- **Create server:** `npx mcp-server-generator my-server` or `npx create-mcp my-server`
+- **Requirements:** Node.js 18+
+- **What you get:** 8 tools, 9 resources, 3 prompts, TypeScript-first
+- **Integrations:** Claude Desktop (stdio), Cursor (HTTP), custom clients
+:::
 
 ## Component Extension
 
@@ -105,7 +150,7 @@ Ready to dive deeper? Check out:
 - **[Installation Guide](./installation.md)** - Detailed setup instructions
 - **[CLI Commands](./cli-commands.md)** - Complete command reference
 - **[Component Guide](./components/overview.md)** - Adding custom components
-- **[Examples](./examples.md)** - Real-world use cases
+- **[Tutorials & Examples](./tutorials-and-examples.md)** - Learn by building real projects
 - **[API Reference](./api/overview.md)** - Technical documentation
 
 ## Support

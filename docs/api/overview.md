@@ -888,5 +888,5 @@ export class TokenBucketRateLimiter implements RateLimiter {
 
 - **[Component Development](../components/overview.md)** - Learn how to build custom components
 - **[CLI Commands](../cli-commands.md)** - Master the command-line interface
-- **[Examples](../examples.md)** - See real-world implementation patterns
+- **[Implementation Tutorials](../tutorials-and-examples.md)** - Learn patterns by building real projects
 - **[GitHub Repository](https://github.com/LinuxDevil/Create-MCP)** - Source code and contributions

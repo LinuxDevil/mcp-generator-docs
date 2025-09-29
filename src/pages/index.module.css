@@ -21,3 +21,35 @@
   align-items: center;
   justify-content: center;
 }
+
+.canonicalSection {
+  background-color: var(--ifm-background-surface-color);
+  padding: 2rem 0;
+}
+
+.canonicalCard {
+  max-width: 800px;
+  margin: 0 auto;
+  border: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.canonicalCard .card__header h2 {
+  margin-bottom: 0;
+  color: var(--ifm-color-primary);
+}
+
+.codeBlock {
+  margin: 1rem 0;
+}
+
+.codeBlock pre {
+  padding: 1rem;
+  background-color: var(--ifm-code-background);
+  border-radius: var(--ifm-code-border-radius);
+  overflow-x: auto;
+}
+
+.codeBlock code {
+  font-family: var(--ifm-font-family-monospace);
+  white-space: pre;
+}

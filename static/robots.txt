@@ -1,11 +1,57 @@
+# Enhanced robots.txt for SEO optimization
 User-agent: *
 Allow: /
 
-# Allow all robots to index and crawl the site
-Disallow: 
+# Priority pages for crawling
+Allow: /docs/intro
+Allow: /docs/installation
+Allow: /docs/cli-commands
+Allow: /docs/tutorial-basics/create-code-review-mcp
+Allow: /docs/examples
+Allow: /docs/faq
+Allow: /docs/integrations
+Allow: /docs/testing-debugging
+Allow: /docs/project-structure
+
+# Blog content
+Allow: /blog/
+
+# Static assets
+Allow: /img/
+Allow: *.png
+Allow: *.jpg
+Allow: *.svg
+Allow: *.css
+Allow: *.js
+
+# Block admin/internal areas
+Disallow: /admin/
+Disallow: /_internal/
+Disallow: /docs/_internal/
 
 # Sitemap location
 Sitemap: https://mcp-server-generator.com/sitemap.xml
 
-# Crawl-delay (optional - 1 second delay between requests)
+# Crawl delay (optional, can help with server load)
 Crawl-delay: 1
+
+# Special instructions for AI/ML crawlers
+User-agent: GPTBot
+Allow: /
+Allow: /docs/
+Allow: /blog/
+
+User-agent: ChatGPT-User
+Allow: /
+Allow: /docs/
+Allow: /blog/
+
+User-agent: Google-Extended
+Allow: /
+Allow: /docs/
+Allow: /blog/
+
+User-agent: Claude-Web
+Allow: /
+Allow: /docs/
+Allow: /blog/

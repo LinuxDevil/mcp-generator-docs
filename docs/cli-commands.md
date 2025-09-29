@@ -378,6 +378,6 @@ Use `--verbose` flag for detailed error information and debugging.
 Learn more about:
 
 - **[Component Development](./components/overview.md)** - Building custom components
-- **[Examples](./examples.md)** - Real-world use cases and patterns
+- **[Tutorials & Examples](./tutorials-and-examples.md)** - Build real projects step-by-step
 - **[API Reference](./api/overview.md)** - Technical documentation
 - **[GitHub Issues](https://github.com/LinuxDevil/Create-MCP/issues)** - Report bugs or request features
