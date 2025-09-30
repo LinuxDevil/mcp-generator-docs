@@ -188,7 +188,7 @@ npm run inspector
 ### Updated Documentation
 - **[Component Overview](/docs/components/overview)** - Complete guide to components
 - **[CLI Commands](/docs/cli-commands)** - Full command reference
-- **[Examples](/docs/examples)** - Real-world use cases
+- **[Examples](/docs/tutorials-and-examples)** - Real-world use cases
 - **[API Reference](/docs/api/overview)** - Technical documentation
 
 ### Interactive Examples

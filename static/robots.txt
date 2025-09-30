@@ -7,7 +7,7 @@ Allow: /docs/intro
 Allow: /docs/installation
 Allow: /docs/cli-commands
 Allow: /docs/tutorial-basics/create-code-review-mcp
-Allow: /docs/examples
+Allow: /docs/tutorials-and-examples
 Allow: /docs/faq
 Allow: /docs/integrations
 Allow: /docs/testing-debugging

@@ -177,7 +177,7 @@ Both `create-mcp` and `mcp-server-generator` are identical - choose whichever fe
 
 - 📚 **Full Documentation**: [mcp-server-generator.com](https://mcp-server-generator.com)
 - 🔧 **CLI Reference**: [mcp-server-generator.com/docs/cli-commands](https://mcp-server-generator.com/docs/cli-commands)
-- 💡 **Examples**: [mcp-server-generator.com/docs/examples](https://mcp-server-generator.com/docs/examples)
+- 💡 **Examples**: [mcp-server-generator.com/docs/tutorials-and-examples](https://mcp-server-generator.com/docs/tutorials-and-examples)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/LinuxDevil/Create-MCP/issues)
 
 ## Conclusion

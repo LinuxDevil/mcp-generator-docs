@@ -65,7 +65,7 @@ npm run inspector      # Visual testing UI
 - 📚 **Documentation**: https://mcp-server-generator.com
 - 📦 **npm Package**: https://www.npmjs.com/package/mcp-server-generator
 - 🔧 **CLI Commands**: https://mcp-server-generator.com/docs/cli-commands
-- 💡 **Examples**: https://mcp-server-generator.com/docs/examples
+- 💡 **Examples**: https://mcp-server-generator.com/docs/tutorials-and-examples
 
 Feel free to ask follow-up questions below! 👇
 

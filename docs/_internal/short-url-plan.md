@@ -10,7 +10,7 @@ Create a short URL (e.g., `mcp.gg/create`) that redirects to the quickstart guid
 - Set up redirects:
   - `mcp.gg/create` → `https://mcp-server-generator.com/docs/installation`
   - `mcp.gg/docs` → `https://mcp-server-generator.com/docs/intro`
-  - `mcp.gg/examples` → `https://mcp-server-generator.com/docs/examples`
+  - `mcp.gg/examples` → `https://mcp-server-generator.com/docs/tutorials-and-examples`
 
 ### Option 2: GitHub Pages Short URLs
 - Use GitHub's URL shortener with custom redirects
